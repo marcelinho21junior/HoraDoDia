@@ -68,4 +68,9 @@ footer p{
         height: 80%;
         border-radius: 50%;
     }
+
+    .msgInfo{
+        font-size: 20px;
+        text-align: center;
+    }
 }
